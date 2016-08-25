@@ -11,4 +11,4 @@ by **Lex Berman**
 
 ---
 
-URL:   [http://www.fas.harvard.edu/~chgis]()
+for deployment at URL:   [http://www.fas.harvard.edu/~chgis]()
