@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "id": "fc123",
-  "label": "The Pilgrimage of Xuanzang",
+  "label": "Trip to Baikonur",
   "features": [
     {
       "type": "Feature",
@@ -15,10 +15,10 @@
         "geometries": [
           {
             "type": "Point",
-            "coordinates": [ 68.2378859, 43.2961962 ],
+            "coordinates": [ 69.5197658,42.3419259 ],
             "properties": {
-              "id": "fc123_001",
-              "label": "Departed Turkistan"
+              "id": "bknr_001",
+              "label": "Departed Shymkent"
             },
             "when": {"timespans":[
               {
@@ -37,11 +37,11 @@
           {
             "type": "MultiLineString",
             "coordinates": [
-              [[ 68.2378859, 43.2961962 ],[ 69.5197658,42.3419259 ]]
+              [[ 69.5197658, 42.3419259 ],[ 76.8040822, 43.2173884 ]]
             ],
             "properties": {
-              "id": "fc123_002",
-              "label": "Turkistan to Shymkent"
+              "id": "bknr_002",
+              "label": "Shymkent to Almaty"
             },
             "when": {"timespans":[
               {
@@ -59,43 +59,43 @@
           },
           {
             "type": "Point",
-            "coordinates": [ 69.5197658,42.3419259 ],
+            "coordinates": [ 76.8040822, 43.2173884 ],
             "properties": {
-              "id": "fc123_003",
-              "label": "stopped in Shymkent"
+              "id": "bknr_001",
+              "label": "Departed Almaty"
             },
             "when": {"timespans":[
               {
-                "label": "2015 Feb",
+                "label": "2015 Jan",
                 "type": "during",
                 "start": {
-                  "earliest": "2015-02-01"
+                  "earliest": "2015-01-01"
                 },
                 "end": {
-                  "latest": "2015-02-28"
+                  "latest": "2015-01-31"
                 },
-                "duration": "1m"
+                "duration": "1d"
               }
-            ]}
+            ]}     
           },
           {
             "type": "MultiLineString",
             "coordinates": [
-              [[69.5197658, 42.3419259],[76.8040822,43.2173884]]
+              [[ 76.8040822,43.2173884 ],[ 63.2901871, 45.6236901 ]]
             ],
             "properties": {
-              "id": "fc123_004",
-              "label": "train to Almaty"
+              "id": "bknr_002",
+              "label": "Almaty to Baikonur"
             },
             "when": {"timespans":[
               {
-                "label": "2015 Feb",
+                "label": "2015 Jan",
                 "type": "during",
                 "start": {
-                  "earliest": "2015-02-01"
+                  "earliest": "2015-01-01"
                 },
                 "end": {
-                  "latest": "2015-02-28"
+                  "latest": "2015-01-31"
                 },
                 "duration": "?d"
               }
@@ -103,66 +103,24 @@
           },
           {
             "type": "Point",
-            "coordinates": [76.8040822,43.2173884],
+            "coordinates": [ 63.2901871, 45.6236901 ],
             "properties": {
-              "id": "fc123_005",
-              "label": "stayed in Almaty"
+              "id": "bknr_001",
+              "label": "Baikonur"
             },
             "when": {"timespans":[
               {
-                "label": "in 629 C.E.",
+                "label": "2015 Jan",
                 "type": "during",
                 "start": {
-                  "earliest": "0629-01-01"
+                  "earliest": "2015-01-01"
                 },
                 "end": {
-                  "latest": "0629-12-31"
+                  "latest": "2015-01-31"
                 },
-                "duration": "?d"
-              },
-          {
-            "type": "MultiLineString",
-            "coordinates": [
-              [[76.8040822,43.2173884],[63.2901871,45.6236901]]
-            ],
-            "properties": {
-              "id": "fc123_004",
-              "label": "flight to Baikonur"
-            },
-            "when": {"timespans":[
-              {
-                "label": "2015 Feb",
-                "type": "during",
-                "start": {
-                  "earliest": "2015-02-01"
-                },
-                "end": {
-                  "latest": "2015-02-28"
-                },
-                "duration": "?d"
+                "duration": "1d"
               }
-            ]}
-          },
-          {
-            "type": "Point",
-            "coordinates": [63.2901871,45.6236901],
-            "properties": {
-              "id": "fc123_005",
-              "label": "prepared for liftoff at Cosmodrome"
-            },
-            "when": {"timespans":[
-              {
-                "label": "2015 Feb",
-                "type": "during",
-                "start": {
-                  "earliest": "2015-02-01"
-                },
-                "end": {
-                  "latest": "2015-02-28"
-                },
-                "duration": "?d"
-              }
-            ]}
+            ]}     
           }
         ]
       }
