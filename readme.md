@@ -7,8 +7,12 @@
 created with *Metalsmith* and *nodeJS*
 
 
-by **Lex Berman**
+by [**Lex Berman**](http://www.dbr.nu/bio)
 
 ---
 
 for deployment at URL:   [http://www.fas.harvard.edu/~chgis]()
+
+
+---
+
