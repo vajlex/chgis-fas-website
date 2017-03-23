@@ -19,10 +19,9 @@ Russian Academy of Science
 **Management Committee:**
 <p>
 <ul><li>Peter K. Bol (Chair) [Harvard University]</li>
-<li>Lawrence Crissman [Griffith University]</li>
 <li>Jianxiong Ge [Fudan University]</li>
 <li>Mark Henderson [University of California, Berkeley]</li>
-<li>Helena Kolenda [Luce Foundation]</li>
+<li>Bill Lavely [University of Washington]</li>
 <li>Zhimin Man [Fudan University]</li>
 <li>G. William Skinner [University of California, Davis]</li>
 <li>Xiaofeng Tang [Peking University]</li>
