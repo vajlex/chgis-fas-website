@@ -52,6 +52,6 @@ Metalsmith(__dirname)
   .destination("build/root")
   .build(function(err) {
   if (err) {console.log(err);}
-        else {console.log('metalsmith has processed the CHGIS website without errors, see BUILD folder: build/root/');}
+        else {console.log('website generated with NO ERRORS, see results in: build/root/');}
   });
 
