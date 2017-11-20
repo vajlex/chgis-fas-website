@@ -1,0 +1,28 @@
+README  2011 and 2012 CHINA OFFSHORE OIL BLOCKS
+
+Publication date:  2 April 2013
+
+Editor: Lex Berman
+
+Source:  2011 and 2012, First Blocks Opened to Offshore Petroleum Exploration and Development in Chinese waters
+
+CNOOC China National Offshore Oil Corporation [Zhongguo haiyang shiyou zonggongsi]  http://www.cnooc.com.cn/data/html/chinese/channel_1.html
+
+2012 offshore dev blocks:
+http://www.guancha.cn/indexnews/2012_08_29_93864.shtml
+
+2011 offshore dev blocks:
+http://blog.sciencenet.cn/blog-339326-503846.html
+
+GIS Table Encoding:  GBK
+
+Description:  
+
+Polygons of the 19 development blocks opened in 2011 and the 23 blocks opened in 2012, with Block Identification Numbers, Basins, and Location Descriptions.   More information on the water depth and drilling depths available at the URLs above.
+
+Edited from thumbnail map images found in the articles online, with Block Numbers checked against the textual descriptions to fix a few errors in the images.
+
+Positional Accuracy is not reliable.   Please use as reference maps only.
+
+
+
