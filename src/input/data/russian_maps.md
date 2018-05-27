@@ -25,7 +25,7 @@ _Russian Map Series Editors:_
 <p>
  **Alexei Karimov**  (Institute for the History of Science and Technology, Moscow) 
 <p>
-Full Report: <a href="../other/tibet_to_altai.zip" target="_new">From Tibet to Altai: Western China in Russian Historical Maps</a>
+Full Report: <a href="https://doi.org/10.7910/DVN/JJMYV7" target="_new">From Tibet to Altai: Western China in Russian Historical Maps</a>
 <p>
 Data Archive URL: [https://dataverse.harvard.edu/dataverse/chgis_ras](https://dataverse.harvard.edu/dataverse/chgis_ras)
 
